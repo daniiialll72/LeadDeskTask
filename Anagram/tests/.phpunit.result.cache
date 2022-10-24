@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":276:{a:2:{s:7:"defects";a:2:{s:51:"LeadDeskTasks\testIsAnagram::testTwoWordsAreAnagram";i:4;s:37:"testIsAnagram::testTwoWordsAreAnagram";i:4;}s:5:"times";a:2:{s:51:"LeadDeskTasks\testIsAnagram::testTwoWordsAreAnagram";d:0.001;s:37:"testIsAnagram::testTwoWordsAreAnagram";d:0.002;}}}
